@@ -96,3 +96,10 @@
     border-radius: 30px;
     margin:-100px 200px;
 }
+.navbar-toggler{
+    width: 100%;
+    background-color:cornflowerblue; /* Color del navbar */
+    border: 1px solid #ccc; /* Agregar borde al navbar */
+    border-radius: 5px; /* Agregar bordes redondeados al navbar */
+    margin-bottom: 20px; /* Espacio entre navbar y carrusel */
+  }
